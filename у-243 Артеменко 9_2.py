@@ -32,5 +32,3 @@ for i in range(len(m)):
     for j in range(len(m)):
         print ('{:2d}'.format(m[i][j]), end=' ')
     print()
-
-    
